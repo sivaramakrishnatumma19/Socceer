@@ -1,4 +1,4 @@
-# Socceer
+# Soccer
 
 A soccer game contains the results from the English Premier League. 
 Requires Python
